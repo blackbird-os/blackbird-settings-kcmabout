@@ -1,3 +1,2 @@
 [General]
-LogoPath=/usr/share/netrunner-artwork/netrunner.png
-BuildStamp=@@BUILD_VERSION@@
+LogoPath=
