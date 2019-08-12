@@ -12,5 +12,4 @@ license=('GPL')
 package() {
   cd ../..
   cp -aR etc $pkgdir/
-  cp -aR usr $pkgdir/
 }
